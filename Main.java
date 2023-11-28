@@ -1,7 +1,7 @@
 public class Main {
 
   static {
-    System.load("/Users/ruslanhladchenko/Documents/projects/java-native/src/main/java/libMyLibrary.dylib");  // Replace with the actual path
+    System.load("/Users/ruslanhladchenko/Documents/projects/java-native/src/main/java/libMyLibrary.dylib");
   }
 
   public static void main(String[] args) {
